@@ -10,7 +10,15 @@ body{
 nav{
   height: 125px !important;
 }
-@media (max-width:1000px) {
+.redes{
+  margin-top: 200px;
+}
+.red-logo{
+  width:70px;
+  height:70px;
+  opacity: 0.2;
+}
+@media (max-width:1200px) {
   h5{
     color:black;
   }
