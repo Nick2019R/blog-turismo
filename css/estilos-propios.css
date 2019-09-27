@@ -1,5 +1,12 @@
 body{
   font-family: sans-serif;
+  background-image: url(../img/fondo.jpg);
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+}
+h5{
+  color:black !important;
 }
 .brand-logo{
   width: 180px;
@@ -12,15 +19,20 @@ nav{
 }
 .redes{
   margin-top: 200px;
+  height: 400px;
 }
 .red-logo{
-  width:70px;
-  height:70px;
-  opacity: 0.2;
+  width:60px;
+  height:60px;
+  opacity: 0.5;
+  padding: 7px;
 }
-@media (max-width:1200px) {
-  h5{
-    color:black;
-  }
-
+.sred{
+  margin-top:35px;
+}
+img[src*=yt]{
+  border-radius:30px;
+}
+.galeria{
+  margin-top: 100px;
 }
