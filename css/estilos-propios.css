@@ -6,7 +6,10 @@ body{
   background-attachment: fixed;
 }
 h5{
-  color:black !important;
+  color:#042474 !important;
+}
+h4{
+  color:#042474 !important;
 }
 .brand-logo{
   width: 180px;
@@ -18,7 +21,7 @@ nav{
   height: 125px !important;
 }
 .redes{
-  margin-top: 200px;
+  margin-top: 50px;
   height: 400px;
 }
 .red-logo{
@@ -40,7 +43,26 @@ img[src*=yt]{
 img[src*=jpg]{
   width: 100% !important;
 }
-img[src*=c1]{
+img[src*=c]{
   width:100% !important;
+  padding: 10px !important;
+}
+.comentarios{
+  color:#042474    !important;
+}
+.ctn-cmt{
+  min-height: 300px !important;
+}
+label{
+  color: white !important;
+}
+div[class*=chip]{
+  color:#042474 !important;
+}
+img[src*=a1]{
+  width:60% !important;
+  padding: 10px !important;
+}
+.pub{
   padding: 10px !important;
 }
