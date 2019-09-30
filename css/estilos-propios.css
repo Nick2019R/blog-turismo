@@ -35,4 +35,12 @@ img[src*=yt]{
 }
 .galeria{
   margin-top: 100px;
+  padding: 20px;
+}
+img[src*=jpg]{
+  width: 100% !important;
+}
+img[src*=c1]{
+  width:100% !important;
+  padding: 10px !important;
 }
